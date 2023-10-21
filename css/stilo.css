@@ -1,0 +1,18 @@
+body{
+    background-color: cyan;
+}
+
+h1{
+    text-align: center;
+    border: 5px solid chocolate;
+    border-radius: 50px;
+    background-color: black;
+    color: rgb(185, 185, 206);
+}
+
+
+#senha{
+    background-color: blue;
+
+
+}
